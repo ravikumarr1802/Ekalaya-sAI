@@ -1,0 +1,79 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #4a90e2;
+}
+
+.stTextArea textarea {
+    background-color: #ffffff;
+    color: #333;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 150px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.stFileUploader div {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: #333;
+}
+
+.stButton button {
+    background-color: #4a90e2;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.stButton button:hover {
+    background-color: #357ABD;
+}
+
+.response {
+    background-color: #e8f0fe;
+    border: 1px solid #4a90e2;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: #333;
+    font-size: 16px;
+}
+
+.stDownloadButton button {
+    background-color: #4a90e2;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.stDownloadButton button:hover {
+    background-color: #357ABD;
+}
+
+.stWarning {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.stMarkdown h2 {
+    color: #4a90e2;
+    font-size: 20px;
+}

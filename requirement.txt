@@ -1,0 +1,9 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+google-generativeai
+python-dotenv
+openai
